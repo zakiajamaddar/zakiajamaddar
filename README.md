@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakiajamaddar
 - 👀 I’m interested in ...Web developement
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...you can reach me by email.zakiajamaddar@gmail.com
 
